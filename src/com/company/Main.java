@@ -145,7 +145,7 @@ public class Main {
 		System.out.println("     \\____/");
 	}
 	public static void Bunny(){
-		System.out.println("(\\__/)");
+		System.out.println("(\\___/)");
 		System.out.println("(' x ')");
 		System.out.println("c(\")(\")");
 	}
